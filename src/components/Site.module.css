@@ -39,13 +39,13 @@
     font-size: 20px;
 
     & > a {
-        text-decoration: none;
+        text-decoration: underline;
         color: #1e3786;
     }
 
     & > a.active {
-        text-decoration: none;
         color: #03eaff;
+        text-decoration: none;
     }
 
     & > a:hover {
